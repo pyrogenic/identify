@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "declaration": true,
+        "downlevelIteration": true,
+        "importHelpers": true,
+        "lib": [
+            "ESNext"
+        ]
+    },
+    "compileOnSave": true
+}
